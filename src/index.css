@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.card{
+    background-image: url('./src/assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.title{
+    text-shadow: #000000;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
