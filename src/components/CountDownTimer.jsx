@@ -44,7 +44,7 @@ useEffect(()=>{
   return (
     <div className='container'>
     <h1 className='title d-flex justify-content-center align-items-center text-dark mt-5'>CountDown-Timer</h1>
-      <div className="card p-4 text-center shadow my-5">
+      <div className="card p-4 text-center bg-dark shadow my-5">
         <h1 className='text-light my-5'>⌚{timeLeft} $econds</h1>
         <div className='buttons d-flex justify-content-center'>
         <button className='btn btn-success'onClick={()=>startTimer()}>Start</button>

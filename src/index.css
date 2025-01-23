@@ -5,13 +5,13 @@ body{
 }
 
 
-.card{
+/* .card{
     background-image: url('./src/assets/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     
-}
+} */
 
 .title{
     text-shadow: #000000;
